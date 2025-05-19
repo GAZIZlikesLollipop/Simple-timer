@@ -7,3 +7,15 @@
   align-items: center;
   justify-content: center;
 }
+.textField {
+  padding: 6px;
+  width: 72px;
+  font-size: 24px;
+}
+
+.textFieldContainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
